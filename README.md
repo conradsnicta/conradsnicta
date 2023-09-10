@@ -1,4 +1,4 @@
-* My work includes machine learning, mathematical software, and AI ethics
+* My work involves machine learning, mathematical software, and AI ethics
   - [list of papers](https://conradsanderson.id.au/papers.html) - includes PDFs
 
 * Open source software:
