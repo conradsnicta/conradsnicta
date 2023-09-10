@@ -1,5 +1,5 @@
 * My work involves machine learning, mathematical software, and AI ethics
-  - [list of papers](https://conradsanderson.id.au/papers.html) - includes PDFs
+  - [list of papers](https://conradsanderson.id.au/papers.html)
 
 * Open source software:
   - [Armadillo](https://arma.sourceforge.net) - C++ library for linear algebra and scientific computing
