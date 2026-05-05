@@ -3,6 +3,6 @@
 
 * Open source software:
   - [Armadillo](https://arma.sourceforge.net) - C++ library for linear algebra and scientific computing
-  - [mlpack](https://mlpack.org) - extensive library of machine learning algorithms (C++, Python, Julia, Go, ...)
+  - [Bandicoot](https://coot.sourceforge.io) - C++ library for fast linear algebra on GPUs
   - [ensmallen](https://ensmallen.org) - C++ library for non-linear numerical optimisation
-  - [Bandicoot](https://coot.sourceforge.io) - C++ library for linear algebra on GPUs
+  - [mlpack](https://mlpack.org) - extensive library of machine learning algorithms (C++, Python, Julia, Go, ...)
